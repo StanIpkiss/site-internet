@@ -1,0 +1,38 @@
+body
+{
+    background:#0a0c1b;    
+    padding:20px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+
+img
+{
+    width:100%;
+    
+    
+    
+}
+.test
+{
+    background-color: rgba(72, 23, 179, 0.6);
+    position: absolute;
+    bottom:0;
+    top: 0;
+    right: 0;
+    left:0;
+    
+}
+
+.parenttest
+{
+    position: relative;
+   
+    
+
+}
